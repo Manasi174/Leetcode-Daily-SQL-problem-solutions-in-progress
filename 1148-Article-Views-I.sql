@@ -1,7 +1,8 @@
 -- 1148. Article Views I (Easy) 
  -- https://leetcode.com/problems/Article-Views-I/ 
 
- /* Write your T-SQL query statement below */ 
+ /* Write your T-SQL query statement below */  
+
 Select a.id
 From
 (
