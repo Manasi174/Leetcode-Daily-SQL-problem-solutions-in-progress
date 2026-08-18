@@ -1,7 +1,8 @@
 --1661 - Average-time-of-process-per-machine (Easy)
 -- https://leetcode.com/problems/Average-time-of-process-per-machine/ 
 
-/* Write your T-SQL query statement below */
+/* Write your T-SQL query statement below */ 
+
 
 select a.machine_id, ROUND(avg(a.processing_time),3) as processing_time
 from
